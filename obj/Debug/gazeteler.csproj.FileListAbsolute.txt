@@ -1,0 +1,22 @@
+C:\Users\eda öncel\Desktop\gazeteler\bin\Debug\gazeteler.exe.config
+C:\Users\eda öncel\Desktop\gazeteler\bin\Debug\gazeteler.exe
+C:\Users\eda öncel\Desktop\gazeteler\bin\Debug\gazeteler.pdb
+C:\Users\eda öncel\Desktop\gazeteler\obj\Debug\gazeteler.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\gazeteler\obj\Debug\gazeteler.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\gazeteler\obj\Debug\gazeteler.Form1.resources
+C:\Users\eda öncel\Desktop\gazeteler\obj\Debug\gazeteler.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\gazeteler\obj\Debug\gazeteler.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\gazeteler\obj\Debug\gazeteler.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\gazeteler\obj\Debug\gazeteler.exe
+C:\Users\eda öncel\Desktop\gazeteler\obj\Debug\gazeteler.pdb
+C:\Users\eda öncel\Desktop\görsel programlama\gazeteler\bin\Debug\gazeteler.exe.config
+C:\Users\eda öncel\Desktop\görsel programlama\gazeteler\bin\Debug\gazeteler.exe
+C:\Users\eda öncel\Desktop\görsel programlama\gazeteler\bin\Debug\gazeteler.pdb
+C:\Users\eda öncel\Desktop\görsel programlama\gazeteler\obj\Debug\gazeteler.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\görsel programlama\gazeteler\obj\Debug\gazeteler.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\görsel programlama\gazeteler\obj\Debug\gazeteler.Form1.resources
+C:\Users\eda öncel\Desktop\görsel programlama\gazeteler\obj\Debug\gazeteler.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\görsel programlama\gazeteler\obj\Debug\gazeteler.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\görsel programlama\gazeteler\obj\Debug\gazeteler.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\görsel programlama\gazeteler\obj\Debug\gazeteler.exe
+C:\Users\eda öncel\Desktop\görsel programlama\gazeteler\obj\Debug\gazeteler.pdb
